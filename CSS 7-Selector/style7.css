@@ -1,0 +1,54 @@
+/* SELECTOR */
+
+/* elemen HTML
+id
+class
+complex selector */
+
+body {
+    font-family : arial;
+}
+
+h1, h2 {
+    color : #2E5077;
+}
+
+h2 {
+    font-transform : uppercase;
+}
+
+//kasih warna titik2 pada list ul
+/* ul { 
+    color : #B771E5;
+} */
+
+//kasih warna isi dari list pada ul li
+ul li a {
+    color : #789DBC;
+}
+
+/* ol {
+    color : #CDC1FF;
+} */
+
+ol li a {
+    color : #CDC1FF;
+}
+
+/* menggunakan class */
+.p1 {
+    color : #88D66C;
+    font-weight : bold;
+}
+
+/* menggunakan id */
+#p2 {
+    color : #FF8A8A;
+    
+}
+
+/* Untuk semua paragraf yang memiliki kelas cetak-tebal */
+p.cetak-tebal {
+    font-weight : bold;
+    font-style : italic;
+}

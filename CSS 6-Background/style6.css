@@ -1,0 +1,42 @@
+/* BACKGROUND */
+
+/* background-color         : mengatur warna pada background
+background-image            : mengatur gambar yang akan dijadikan background
+background-position         : mengatur posisi gambar pada background
+background-repeat           : mengatur jenis pengulangan gambar pada background */
+
+/* background-position
+top left
+top center
+top right
+center left
+center right
+buttom left
+buttom center
+buttom right
+x% y%
+y-pos y-pos */
+
+body {
+    background-color : #213555;
+    background-image : url('Asset/BG1.jpg');
+    background-report : no-report;
+    background-position : top center;
+}
+h1 {
+    font-size : 150px;
+    color : #2E5077;
+    text-decoration : line-through;
+    text-align : center;
+
+
+    text-transform : uppercase;
+}
+
+p {
+    text-indent : 100px;
+    Color : #F2EFE7;
+        color : #F2EFE7;
+    text-align : center;
+    font-size : 30px
+}

@@ -1,0 +1,14 @@
+
+h1 {
+    color : blue; //warna huruf
+    font-family : Arial; //jneis huruf
+    font-size : 100px; //ukuran huruf
+    font-style : italic; //normal, italic, oblique
+
+}
+P {
+    font-weight : bold; //ketebalan huruf
+    font-size : 40px;
+    font-style : oblique;
+    line-height : 40px; //jarak antar spasi
+}
